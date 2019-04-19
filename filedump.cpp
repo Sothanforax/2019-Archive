@@ -2,7 +2,6 @@
 #include <fstream>
 #include <string>
 #include <streambuf>
-#include <cerrno>
 using namespace std;
 int main (int argc,char *argv[]){
 string args(argv[1]);
